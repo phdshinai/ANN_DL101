@@ -17,11 +17,7 @@
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
-- [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -29,39 +25,22 @@
 
 Briefly introduce your project. Explain what it does, its main features, and why it's valuable.
 
-## Demo
-
-Provide a link to a live demo or a screenshot showcasing your project.
-
-## Features
-
-- List key features or functionalities of your project.
-
 ## Getting Started
 
 1. Clone the repo
    ```sh
    git clone https://github.com/phdshinai/ANN_DL101.git
    ```
-## Usage
-
-Showcase how to use your project. Provide code examples and explanations where necessary.
-
-## Contributing
-
-Explain how others can contribute to your project. Include guidelines for code style, pull requests, and issue reporting.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-- Email: [your@email.com](mailto:your@email.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-
+- Email: [fusionlab.ai@gmail.com](mailto:fusionlab.ai@gmail.com)
+- GitHub: [@phdshinai](https://github.com/phdshinai)
+- Youtube: [신박AI](https://www.youtube.com/@phdshinAI)
+- 
 Feel free to reach out if you have any questions or suggestions!
 
 ---
-
-[Optional: Additional badges or acknowledgments can go here.]
