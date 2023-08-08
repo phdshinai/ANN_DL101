@@ -39,8 +39,10 @@ Provide a link to a live demo or a screenshot showcasing your project.
 
 ## Getting Started
 
-Guide users through setting up your project locally. This could include installation instructions, prerequisites, and any initial setup steps.
-
+1. Clone the repo
+   ```sh
+   git clone https://github.com/phdshinai/ANN_DL101.git
+   ```
 ## Usage
 
 Showcase how to use your project. Provide code examples and explanations where necessary.
