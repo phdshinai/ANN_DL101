@@ -1,7 +1,7 @@
 <br />
-<div align="center">
+<div align="left">
   <a href="https://github.com/phdshinai/ANN_DL101">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="160" height="160">
   </a>
 </div>
 
