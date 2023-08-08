@@ -16,20 +16,21 @@
 
 ## Table of Contents
 
-- [About](#about)
 - [Getting Started](#getting-started)
 - [License](#license)
 - [Contact](#contact)
 
-## About
-
-Briefly introduce your project. Explain what it does, its main features, and why it's valuable.
 
 ## Getting Started
 
-1. Clone the repo
+1. Clone the repo 리파지토리 클론하기
    ```sh
    git clone https://github.com/phdshinai/ANN_DL101.git
+   ```
+2. Install dependencies 디펜던시 설치하기
+   ```sh
+   cd ANN_DL101    
+   pip install -r requirements.txt
    ```
 ## License
 
