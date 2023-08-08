@@ -40,7 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: [fusionlab.ai@gmail.com](mailto:fusionlab.ai@gmail.com)
 - GitHub: [@phdshinai](https://github.com/phdshinai)
 - Youtube: [신박AI](https://www.youtube.com/@phdshinAI)
-- 
 Feel free to reach out if you have any questions or suggestions!
 
 ---
