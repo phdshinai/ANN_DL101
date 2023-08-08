@@ -5,12 +5,12 @@
   </a>
 </div>
 
-# Project Name
+# 신박AI Youtube 예제 코드 저장소
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/repo.svg)](https://github.com/yourusername/repo/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/repo.svg)](https://github.com/yourusername/repo/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/repo.svg)](https://github.com/yourusername/repo/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/phdshinai/ANN_DL101.svg)](https://github.com/phdshinai/ANN_DL101/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/phdshinai/ANN_DL101.svg)](https://github.com/phdshinai/ANN_DL101/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/phdshinai/ANN_DL101.svg)](https://github.com/phdshinai/ANN_DL101/issues)
 
 Short description or tagline about the project.
 
