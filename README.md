@@ -12,7 +12,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/phdshinai/ANN_DL101.svg)](https://github.com/phdshinai/ANN_DL101/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/phdshinai/ANN_DL101.svg)](https://github.com/phdshinai/ANN_DL101/issues)
 
-Short description or tagline about the project.
+안녕하세요 여러분 신박AI입니다. 여기에 있는 코드들은 제 유튜브 채널 신박AI에서 예제로 사용한 신경망 코드들입니다. 영상을 보시고 또 실습해보시고 싶은 분들을 위하여 업로드하였습니다. 마음껏 사용하셔도 좋습니다. 앞으로 더 많은 (실험적)코드들을 올리도록 하겠습니다.
 
 ## Table of Contents
 
