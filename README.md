@@ -5,7 +5,7 @@
   </a>
 </div>
 
-# 신박AI YouTube 예제 코드 페이지
+# 신박AI YouTube 예제 코드 Repository
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/phdshinai/ANN_DL101.svg)](https://github.com/phdshinai/ANN_DL101/stargazers)
